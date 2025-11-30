@@ -1,0 +1,4 @@
+{
+  "dl": "https://github.com/FlakeCache/{crate}/releases/download/v{version}/{crate}-{version}.crate",
+  "api": "https://github.com/FlakeCache"
+}
